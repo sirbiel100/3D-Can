@@ -3,7 +3,8 @@
 ## Summary
 
 - [Screenshot](#screenshot)
-- [Description]
+- [Description](#description)
+- [Credits](#credits)
 
 ### Screenshot
 
