@@ -113,3 +113,14 @@ body{
 .banner:has(.product:hover) .stones img:nth-child(2){
     transform: translateX(-30%) translateY(-90%) rotateZ(-10deg);
 }
+
+.banner .stones img:nth-child(3){
+    width: 420px;
+    top: 100%;
+    left: 50%;
+    transform: translateY(-100%) translateX(-50%);
+}
+
+.banner:has(.product:hover) .stones img:nth-child(3){
+    transform: translateY(-50%) translateX(-50%);
+}
